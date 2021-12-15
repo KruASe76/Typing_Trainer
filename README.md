@@ -9,5 +9,5 @@ This is my first big project, and I push it on GitHub as a relic of that wonderf
 `py main.py`
 
 **Linux/MacOS**:  
-`source ./venv/bin/activate`
+`source ./venv/bin/activate`  
 `python3 main.py`
